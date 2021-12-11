@@ -71,7 +71,7 @@ button {
     height: 200px;
     width: 120px;
     border-radius: 10px;
-    border: 3px solid #14171b;
+    border: 3px solid #3882f6;
     margin-bottom: 5px;
 }
 .member {
@@ -79,7 +79,6 @@ button {
     flex-direction: column;
     max-width: 100px;
     font-size: 9px;
-    
     font-weight: 550;
     color: #33373d;
     text-align: center;
